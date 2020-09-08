@@ -1,0 +1,35 @@
+p {
+    color:lime;
+    background: blue;
+    font-size: 2.0em;
+    line-height: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+li{
+    color:blue;
+    font-size: 2.0em;
+    line-height: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+h1{
+    font-size: 80px;
+    color:black;
+    text-transform:uppercase;
+    text-decoration:underline;
+    letter-spacing: 0.5em;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(red, yellow);
+}
+img{
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    margin: auto;
+    display: block;
+}
