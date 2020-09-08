@@ -36,3 +36,11 @@ img{
     display: block;
     transition: width 2s, height 2s, transform 2s, ease 2s;
   }
+h2{
+    color:blue;
+    font-size:1.5em;
+    text-decoration: underline;
+}  
+h2:hover{
+    font-size:2em;
+}
