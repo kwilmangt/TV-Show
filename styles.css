@@ -5,6 +5,8 @@ p {
     line-height: 1.5em;
     font-family: 'Times New Roman', Times, serif;
     padding: 20px;
+    transition: width 1s, height 1s, transform 1s, linear 1s;
+
 }
 li{
     color:blue;
@@ -27,9 +29,10 @@ body{
     background-image: linear-gradient(red, yellow);
 }
 img{
-    border-width: 5px;
+    border-width: 10px;
     border-style: solid;
     border-color:black;
     margin: auto;
     display: block;
-}
+    transition: width 2s, height 2s, transform 2s, ease 2s;
+  }
